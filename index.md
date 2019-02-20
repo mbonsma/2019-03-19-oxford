@@ -124,6 +124,10 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p>
+Coffee, tea, and snacks will be provided but please bring your own lunch or be prepared to purchase a sandwich or salad downstairs.
+</p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
