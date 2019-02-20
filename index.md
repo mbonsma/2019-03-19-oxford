@@ -156,12 +156,9 @@ special instructions.
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organizers have checked that:
+  The room and restrooms are wheelchair / scooter accessible, but not all doors can open automatically. 
+  Please contact us if you have any questions or concerns about building access.
 </p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
